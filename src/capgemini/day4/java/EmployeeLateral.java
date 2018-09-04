@@ -1,4 +1,4 @@
-package capgemini.day_4.java;
+package capgemini.day4.java;
 
 public class EmployeeLateral {
 	String employeeId;

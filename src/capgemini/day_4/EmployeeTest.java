@@ -4,8 +4,8 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-import capgemini.day_4.java.President;
-import capgemini.day_4.java.SalesManager;
+import capgemini.day4.java.President;
+import capgemini.day4.java.SalesManager;
 
 class EmployeeTest {
 
